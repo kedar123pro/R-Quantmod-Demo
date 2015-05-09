@@ -4,6 +4,10 @@ Financial Analysis of Indian Stocks using Quantmod on R.
 Quantmod is a great tool for stock data analytics. Data from Indian Markets (BSE, NSE) can be imported by using stock codes on Yahoo! Finance.
 In this example, I am charting two pharma stocks.
 
+
+![rplot](https://github.com/kedar123pro/R-Quantmod-Demo/blob/master/Rplot.png)
+
+
 Further analytics tools available in TTR for Quantmod can be used with following functions:
 
 
